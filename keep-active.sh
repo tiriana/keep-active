@@ -52,6 +52,8 @@ show_help() {
     echo "  --idle-time=N       Set the idle time threshold to N seconds (default: 2)."
     echo "  --sleep-duration=N  Set the sleep duration to N seconds between movements (default: 1)."
     echo "  -h, --help          Display this help message."
+    echo ""
+    echo "Support my work by buying me a coffee: https://www.buymeacoffee.com/tiriana"
 }
 
 # Parse command-line arguments
