@@ -53,7 +53,7 @@ show_help() {
     echo "  --sleep-duration=N  Set the sleep duration to N seconds between movements (default: 1)."
     echo "  -h, --help          Display this help message."
     echo ""
-    echo "Support my work by buying me a coffee: https://www.buymeacoffee.com/tiriana"
+    echo "If you find this tool helpful and you feel like it you can buy me a coffee here: https://www.buymeacoffee.com/tiriana"
 }
 
 # Parse command-line arguments

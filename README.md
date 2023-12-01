@@ -20,3 +20,9 @@ On Debian-based systems (like Ubuntu), you can install them using:
 ```bash
 sudo apt-get install xprintidle xdotool
 ```
+
+## ☕️ Support the Project
+
+If you find this tool helpful and would like to show your appreciation, you can buy me a coffee! Your support keeps me motivated and helps me continue improving this project. Thank you for your generosity! 😊
+
+[Buy Me a Coffee](https://www.buymeacoffee.com/tiriana)
