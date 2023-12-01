@@ -1,0 +1,14 @@
+Source: keep-active
+Section: utils
+Priority: optional
+Maintainer: Radomir Wojtera <radomir.wojtera@gmail.com>
+Build-Depends: debhelper (>= 12.1.1)
+Standards-Version: 4.5.0
+Homepage: <URL of your project, if any>
+
+Package: keep-active
+Architecture: all
+Depends: bash, xdotool, xprintidle
+Description: A script to simulate mouse movements and keep the system active.
+ This script prevents the computer from going into sleep mode or showing
+ as inactive in communication tools.
